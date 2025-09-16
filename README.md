@@ -1,6 +1,6 @@
 # fcm_image_converter.exe
 
-Batch-converts all .pgm images in a given directory to .jpg and flips them vertically. Useful for processing Chevy Forward Camera Module pre-cash images.
+Batch-converts all .pgm images in a given directory to .jpg and flips them vertically. Useful for processing Chevy Forward Camera Module pre-cash images. There's an exe located in the 'Dist' folder.
 
 ## How to use:
 
